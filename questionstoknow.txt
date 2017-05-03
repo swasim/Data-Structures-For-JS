@@ -1,0 +1,39 @@
+Week 1:
+
+Big-O-Notation
+What does O(1) mean (constant time algorithms):
+<---algorithm runs constant in time
+<---input size does not have an effect on time or performance
+
+
+What does O(n) mean
+
+
+What is O(n2)
+
+
+What is space complexity
+<--- the amount of space a given algorithm requires in memory
+
+Data Structures
+Build a Heap in Javascript
+Build a Binary Search Tree in Javascript
+Build a Queue in Javascript
+Build a Stack in Javascript
+Explain the difference between an array and a Queue.
+What is the space complexity for all these data structures
+
+Start Pseudocoding everything
+
+
+Object Oriented Programming
+-Classes
+-Polymorphism
+⁃	Why is
+
+What is recursion?
+ex)   given a string -> console.log every letter inside that string (No for loop)
+
+
+Once you solve the answers we will work on algorithms using data structures.
+We will start whiteboarding
